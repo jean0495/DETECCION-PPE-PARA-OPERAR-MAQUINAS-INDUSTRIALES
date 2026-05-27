@@ -1,0 +1,8 @@
+# Ignorar el entorno virtual de Python
+proyecto_final/tf-env/bin/
+proyecto_final/tf-env/include/
+proyecto_final/tf-env/lib/
+proyecto_final/tf-env/lib64/
+proyecto_final/tf-env/share/
+proyecto_final/tf-env/__pycache__/
+proyecto_final/tf-env/pyvenv.cfg
